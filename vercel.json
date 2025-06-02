@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "http://dv-n7.divahost.net:50185"
+      "destination": "http://dv-n7.divahost.net:50185/login"
     }
   ]
 }
